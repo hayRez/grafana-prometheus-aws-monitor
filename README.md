@@ -153,3 +153,24 @@ This monitoring stack allows you to monitor your **Docker containers** and **AWS
 
 You can easily scale and extend the monitoring stack by adding more containers or monitoring services.
 
+Screenshots:
+<img width="959" alt="cd advisor" src="https://github.com/user-attachments/assets/8576afff-6e79-4977-89d8-3eb7eb9ce3ba" />
+<img width="959" alt="apache html app" src="https://github.com/user-attachments/assets/e378a287-cfa6-46ff-b98c-b0e6249f1861" />
+<img width="959" alt="docker ps" src="https://github.com/user-attachments/assets/c3376c05-3850-456b-b8b5-cc002c07a62d" />
+<img width="959" alt="from the app inside the container" src="https://github.com/user-attachments/assets/c64f3616-e53f-48a2-85ec-dbdef544f04d" />
+<img width="959" alt="Grafana docker monitoring graph" src="https://github.com/user-attachments/assets/afd12d7b-b433-4162-8387-7d757a57b815" />
+<img width="959" alt="Grafana docker monitoring graph2" src="https://github.com/user-attachments/assets/0a11da02-3b58-4ea4-8444-47692e2d0e96" />
+<img width="959" alt="Grafana Node exporter dash" src="https://github.com/user-attachments/assets/d056ea2f-c927-4052-9db3-e6215beec8b9" />
+<img width="959" alt="node exporter" src="https://github.com/user-attachments/assets/b345dd13-67c1-4905-9ae7-bdafec166313" />
+<img width="959" alt="Prometheues" src="https://github.com/user-attachments/assets/740e4a5a-2d60-4527-b4d2-f92e461f56cd" />
+
+
+
+
+
+
+
+
+
+
+
